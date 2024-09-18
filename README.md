@@ -14,10 +14,6 @@
 - **Carousel:** Image slider with indicators and navigation controls.
 - **Footer:** A multi-column footer with links to different sections of the website.
 
-## Screenshots
-
-Include a screenshot of the website if necessary.
-
 ## Getting Started
 
 To view or modify this project on your local machine, follow the steps below:
